@@ -1,6 +1,6 @@
-Photon by HTML5 UP
+Photon Git by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial uses under the CCA 3.0 license (html5up.net/license)
 
 
 A simple (gradient-heavy) single pager that revisits a style I messed with on two
@@ -17,10 +17,8 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 AJ
 aj@lkn.io | @ajlkn
 
-
 Credits:
-
-	Demo Images:
+     Demo Images:
 		Unsplash (unsplash.com)
 
 	Icons:
